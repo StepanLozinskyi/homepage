@@ -120,3 +120,45 @@ body {
   line-height: 24px;
   color: #000;
 }
+
+/* My work experience section*/
+.my-work-experience-section {
+    margin: 0 0 15px 0;
+}
+
+.my-work-experience-company{
+  color: #FB6D3A;
+}
+
+.my-work-experience-position{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 10px 0;
+}
+
+.my-work-experience-period{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #ABABAB;
+  margin: 0 0 10px 0;
+}
+
+.my-work-experience-period-divider{
+  color: #000;
+}
+
+.my-work-experience-duties-list{
+  padding: 0 0 0 18px;
+}
+
+.my-work-experience-duty{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
