@@ -162,3 +162,36 @@ body {
   line-height: 24px;
   color: #595959;
 }
+
+/* My education  section*/
+.my-education-university{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FB6D3A;
+}
+
+.my-education-faculty{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
+
+.my-education-period{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #A8A8A8;
+}
+
+.my-education-period-divider{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
