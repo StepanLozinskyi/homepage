@@ -195,3 +195,37 @@ body {
   line-height: 15px;
   color: #000000;
 }
+
+/* Contacts section */
+.contacts-section-type{
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 7px;
+}
+
+.contacts-section-link{
+  color: #565E6A;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+ /* Tech and Soft skill sections (both the same */
+.skill-list{
+  padding: 0 0 0 17px;
+}
+
+.skills-item{
+  color: #FB6D3A;
+}
+
+.skills-item-text{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
